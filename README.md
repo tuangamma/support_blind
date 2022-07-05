@@ -4,6 +4,9 @@
 ME :
 _Đặng Thành Tuấn: https://www.facebook.com/dangthanhtuna
 
-Là học sinh trường THPT Lương Thế Vinh tại thị trấn Kbang, Huyện Kbang, tỉnh Gia Lai
+Là học sinh trường THPT Lương Thế Vinh tại thị trấn Kbang, Huyện Kbang, tỉnh Gia Lai.
 
-Đề tại hiện đang trong quá trình nâng cấp
+Đề tại hiện đang trong quá trình nâng cấp có thể sẽ có nhiều thay đổi trong tương lai đặc biệt là phần nhận diện vật thể sẽ nâng cấp dữ liệu đồng thời sẽ đổi cấu hình đào tạo.
+
+
+Link drive mã nguồn: https://drive.google.com/file/d/1vOWVb5GswvdhlBMibYMxUNGI01exS0mX/view?usp=sharing
