@@ -13,4 +13,5 @@ Link drive full code mã nguồn: https://drive.google.com/drive/u/0/folders/1CB
 
 Hướng dẫn cài đặt: https://drive.google.com/drive/u/0/folders/1Vr-8y45h-ciPelMD_tXZZQRqsR0zw0ID
 
+Web sever sao lưu và nâng cấp dữ liệu: https://socialaistain.com/
 
