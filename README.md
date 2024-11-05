@@ -1,5 +1,5 @@
 # support_blind
---- Mã nguồn mở hỗ trợ người khiếm thị ---
+--- Mã nguồn mở về trí tuệ nhân tạo hỗ trợ người khiếm thị ---
 
 ME :
 _Đặng Thành Tuấn: https://www.facebook.com/dangthanhtuna
